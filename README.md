@@ -1,2 +1,2 @@
 # hundredDaysOfSwift
-My 100 Days of Swift! 
+My 100 Days of SwiftUI! 
